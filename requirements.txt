@@ -1,4 +1,13 @@
+# App web
 streamlit>=1.36
+
+# Dados e numérico
 pandas>=2.0
+numpy>=1.26
+
+# Gráficos e exportação para PNG
 altair>=5.1.2
 vl-convert-python>=1.5.0
+
+# (opcional) exportar PNG com outro engine
+altair_saver>=0.5.0
